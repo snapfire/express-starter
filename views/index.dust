@@ -1,0 +1,4 @@
+{>"templates/app_template" pageActive="index"/}
+{<bodyContent}
+
+{/bodyContent}
